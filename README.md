@@ -1,6 +1,4 @@
-## 🧉 ```diff
-- Hi, my name is Jose
-```
+## 🧉 Hi, my name is Jose
 
 ### 🛠 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
