@@ -1,4 +1,4 @@
-## 🧉 Hi, my name is Jose
+## 🧉  <span style="color:blue">Hi, my name is Jose</span>
 
 ### 🛠 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
